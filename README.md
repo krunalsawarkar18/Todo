@@ -6,14 +6,9 @@ This project is designed to show more than CRUD. It highlights product thinking,
 
 ## Why This Project Stands Out
 
-Recruiters and hiring managers usually scan for two things:
-
-1. Can this developer build something polished that real users would enjoy?
-2. Can this developer make practical engineering decisions instead of just assembling components?
-
 Momentum Todo was built to answer both.
 
-- Modern, recruiter-friendly UI instead of a basic checklist demo
+- Modern, friendly UI instead of a basic checklist demo
 - Local-first persistence with a storage abstraction that can later swap to an API
 - Thoughtful task prioritization, filtering, due-date handling, and responsive behavior
 - Clean component boundaries for maintainability and future expansion
