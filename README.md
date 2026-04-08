@@ -1,3 +1,7 @@
+📞 Contact
+Krunal Sawarkar
+
+Email: krunalsawarkar2004@gmail.com
 # Momentum Todo
 
 A modern, local-first todo application built with React, Vite, JavaScript, and Tailwind CSS.
